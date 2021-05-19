@@ -5,4 +5,6 @@ blue
 yellow
 white
 green
+
+pink
 thanks for adding
