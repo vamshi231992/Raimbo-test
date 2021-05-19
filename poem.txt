@@ -3,5 +3,6 @@ hi iam adding this colors
 red
 blue
 yellow
+white
 green
 thanks for adding
